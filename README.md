@@ -1,2 +1,3 @@
 # BreastCancerPredictionModel
- Logistic Regression Prediction Model
+ Logistic Regression Prediction Model for Breast Cancer data Wisconsin
+
